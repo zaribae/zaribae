@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaribae
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to collaborate on anything that interest me
 - 📫 How to reach me IG : @ahmadazzhari
 
 <!---
